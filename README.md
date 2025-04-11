@@ -1,4 +1,4 @@
-# NeuStackApp
+# Insurance-EnroIlment-Prediction-API
 
 ## Project Overview
 This project is an end-to-end machine learning pipeline and web API to predict whether an employee will enroll in an insurance plan based on their demographic and employment information.
@@ -8,7 +8,7 @@ Given employee information (age, gender, salary, etc.), we aim to predict whethe
 
 ## Project Structure
 ```
-NeuStackApp/
+Insurance-EnroIlment-Prediction-API/
 ├── main.py                  # FastAPI app with predict endpoint
 ├── train_pipeline.py        # Model training pipeline
 ├── model.joblib             # Trained ML model (after running training script)
