@@ -21,7 +21,7 @@ Insurance-EnroIlment-Prediction-API/
 
 ### Clone the repository
 ```bash
-git clone https://github.com/nishkarshsharma/neustackapp.git
+git clone https://github.com/nishkarshsharma/Insurance-Enrollment-Prediction-API.git
 cd neustackapp
 ```
 
